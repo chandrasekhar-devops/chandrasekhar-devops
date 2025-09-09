@@ -24,23 +24,10 @@
 
 ---
 
-##  GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrasekhar-devops&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekhar-devops&layout=compact&theme=radical)
-
----
-
-
-
----
 
 ##  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrasekhar-ravella/)  
 [![Email](https://img.shields.io/badge/Email—me-red)](mailto:chandrasekhar.ravella3@gmail.com)
 
----
 
-##  Bonus
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandrasekhar-devops&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=chandrasekhar-devops&theme=onedark)
 
